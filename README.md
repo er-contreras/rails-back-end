@@ -1,24 +1,63 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails back-end
 
-Things you may want to cover:
+> Here we have been working with rails to use it as an API. In order to use it we have a front-end project with react that you can follow in the link below.
 
-* Ruby version
+## Link to my react front-end app:
+https://github.com/eri8-9/react-front-end/pull/1
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby
+- Rails
 
-* Database creation
+## Getting Started
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
+### Prerequisites
 
-* Services (job queues, cache servers, search engines, etc.)
+Have installed Ruby and Rails in your machine
 
-* Deployment instructions
+### Setup
 
-* ...
+clone this repo with:
+``` ruby 
+git clone https://github.com/eri8-9/rails-back-end
+```
+
+### Install
+
+``` ruby
+run `bundle install`
+run `npm install or yarn install`
+```
+
+*We can now run rails server -p 3000 and visit http://localhost/rails-back-end 
+
+## Authors
+
+👤 **Christian Erick Contreras**
+
+- GitHub: [@eri8-9](https://github.com/eri8-9)
+- Linkedin: [LinkedIn](https://www.linkedin.com/in/christian-erick/)
+- Twitter: [@ChristianErick_](https://twitter.com/ChristianErick_)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/eri8-9/rails-back-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [Microverse](https://www.microverse.org/)
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
