@@ -2,7 +2,10 @@
 
 # Rails back-end
 
-> Here we are using rails as a API.
+> Here we have been working with rails to use it as an API. In order to use it we have a front-end project with react that you can follow in the link below.
+
+## Link to my react front-end app:
+https://github.com/eri8-9/react-front-end/pull/1
 
 ## Built With
 
